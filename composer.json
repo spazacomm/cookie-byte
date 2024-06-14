@@ -1,5 +1,5 @@
 {
-	"name": "ddm-studio/cookie-byte",
+	"name": "spazacomm/cookie-byte",
 	"type": "statamic-addon",
 	"version": "1.5.2",
 	"description": "A highly customizable cookie consent manager for Statamic websites",
@@ -13,13 +13,13 @@
 	"license": "proprietary",
 	"authors": [
 		{
-			"name": "dryven",
-			"email": "hallo@dryven.com",
-			"homepage": "https://dryven.com/"
+			"name": "Jacob Chumo",
+			"email": "spazacomm@gmail.com",
+			"homepage": "https://spaza.co.ke/"
 		}
 	],
 	"support": {
-		"email": "support@dryven.com"
+		"email": "spazacomm@gmail.com"
 	},
 	"require": {
 		"php": "^8.0",
